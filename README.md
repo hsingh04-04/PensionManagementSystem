@@ -7,7 +7,7 @@
 3. Pensioner Detail Service
 4. Pension Disbursement Service
 5. Process Process Service
-6. **User Interface** (Front-end in Angular)
+6. **Pension Management Portal** (Front-end in Angular)
 
 ## 1. Eureka Server
 The Eureka Server is responsible for registering all the microservices together so that they can communicate with each other with the help of their application names instead of their IP address which may be dynamic in nature.
