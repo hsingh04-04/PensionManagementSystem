@@ -1,0 +1,8 @@
+.container-body{
+    height: 650px;  
+    color: #fff;
+    background-image: url("../../../assets/images/LoginPage.jpg");  
+    background-size: 100%;  
+    background-size: cover;
+}
+
